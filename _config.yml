@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Marcelo Albarracin
+description: MBA- SCM Certified Production Egineer
 url: https://vszhub.github.io
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Marcelo Albarracin Sabja
+  url: https://www.linkedin.com/in/marceloalbarracin/
+  email: malbarracin45@gmail.com
